@@ -92,7 +92,7 @@ Installation
 ------------
 
 ```
-cordova plugin add https://github.com/taivo/parse-push-plugin
+cordova plugin add https://github.com/EastCoastProduct/parse-push-plugin
 ```
 
 ####Android Setup:
